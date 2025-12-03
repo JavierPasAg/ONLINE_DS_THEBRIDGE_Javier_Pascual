@@ -174,7 +174,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore th3e entire idea folder.
 #.idea/
 
-secrets-txt
+secrets.txt
 
 # Para subir solo las practicas obligatorias
 *Workout
